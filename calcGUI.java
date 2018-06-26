@@ -141,7 +141,6 @@ public class calcGUI extends JFrame {
 	 
 	            }
 	            if (textField.getText().endsWith("")) {
-	                label.setText("");
 	            	}
 				}
 		});
