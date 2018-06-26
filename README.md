@@ -14,3 +14,7 @@
 ## Bugs
 
 	Yes, many.
+
+## Screenshot
+	
+![](/calculator_screenshot.png?raw=true)
